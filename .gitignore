@@ -2,6 +2,7 @@
 *.jpg
 .DS_Store
 *.gif
+!vaalbara-2.gif
 config.js
 js/bundle.js
 node_modules

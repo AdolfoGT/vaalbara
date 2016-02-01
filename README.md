@@ -6,6 +6,8 @@ Works by extracting the coordinates from google maps and input them to
 the Twitter API.
 
 
+![Example](/vaalbara-2.gif?raw=true "Example")
+
 ```
 browserify init.js -o bundle.js
 
