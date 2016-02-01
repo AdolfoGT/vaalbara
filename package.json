@@ -1,0 +1,16 @@
+{
+  "name": "Vaalbara",
+  "version": "0.0.0",
+  "description": "Vaalbará --------------",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Pousa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.13.3",
+    "twit": "~2.1.1",
+    "socket.io": "~1.4.4"
+  }
+}

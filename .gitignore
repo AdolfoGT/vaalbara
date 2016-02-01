@@ -1,0 +1,7 @@
+*.mov
+*.jpg
+.DS_Store
+*.gif
+config.js
+js/bundle.js
+node_modules
